@@ -18,7 +18,7 @@ function VariationA() {
     <div style={{
       width: A_W, background: PALETTE.ink, color: PALETTE.paper,
       fontFamily: '"Geist", -apple-system, sans-serif',
-      overflow: 'hidden',
+      overflow: 'hidden', margin: '0 auto',
     }}>
       <TopNav />
 
