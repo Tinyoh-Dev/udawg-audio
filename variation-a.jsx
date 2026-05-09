@@ -31,6 +31,7 @@ function VariationA() {
       }}>
         <image-slot
           id="udawg-a-hero"
+          src="images/hero.jpg"
           style={{
             position: 'absolute', inset: 0, width: '100%', height: '100%',
             display: 'block',
@@ -189,6 +190,7 @@ function VariationA() {
         <div style={{ height: 460, position: 'relative' }}>
           <image-slot
             id="udawg-a-shop"
+            src="images/workshop.jpg"
             style={{ position:'absolute', inset:0, width:'100%', height:'100%', display:'block' }}
             shape="rect"
             placeholder="Workshop shot — hands at the bench, sawdust, warm light"
